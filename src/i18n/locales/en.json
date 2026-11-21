@@ -1,0 +1,64 @@
+{
+  "app": {
+    "title": "tinmsnake · Eventing & Travel Tracker",
+    "subtitle": "Live Flighty travel blocks paired with Eventernote concert & event attendance",
+    "subscribe_ics": "Subscribe (.ics)",
+    "copy_ics": "Copy iCal URL",
+    "copied": "Copied iCal URL to clipboard",
+    "eventernote_profile": "Eventernote (tinmsnake)"
+  },
+  "nav": {
+    "calendar": "Calendar",
+    "trips": "Trips & Flights",
+    "events": "All Events",
+    "stats": "Stats"
+  },
+  "hero": {
+    "status_active": "Currently Traveling",
+    "status_home": "Home in San Francisco (SFO)",
+    "next_trip_in": "Next trip in {{days}} days",
+    "departing_today": "Departing today!",
+    "departing_tomorrow": "Departing tomorrow",
+    "next_trip_label": "NEXT UPCOMING TRIP",
+    "active_trip_label": "CURRENT ACTIVE TRIP",
+    "events_on_trip": "{{count}} Eventernote events on this trip",
+    "no_events_logged": "Travel / Non-eventing trip (or events not added to Eventernote yet)",
+    "view_trip_details": "Inspect Full Flight Telemetry & Events"
+  },
+  "calendar": {
+    "prev_month": "Previous month",
+    "next_month": "Next month",
+    "today": "Today",
+    "clear_day": "Show whole month",
+    "agenda_title": "Schedule for {{label}}",
+    "no_activity": "No flights or Eventernote events in this window.",
+    "legend_eventing_trip": "Eventing Trip (Flighty + Eventernote)",
+    "legend_travel_trip": "Travel Trip (Flighty)",
+    "legend_flight_day": "Flight Departure / Arrival",
+    "legend_event_day": "Eventernote Event"
+  },
+  "trips": {
+    "filter_all": "All Trips ({{count}})",
+    "filter_upcoming": "Upcoming & Active ({{count}})",
+    "filter_eventing": "Eventing Runs ({{count}})",
+    "filter_past": "Past Archive ({{count}})",
+    "search_placeholder": "Search destination, flight (JL2, ZG25, NRT), venue, or artist...",
+    "days_count": "{{count}} days",
+    "flights_count": "{{count}} flights",
+    "events_count": "{{count}} events",
+    "telemetry_heading": "Flighty Telemetry (All legs)",
+    "events_heading": "Connected Eventernote Events"
+  },
+  "stats": {
+    "total_trips": "Total Trips",
+    "upcoming_trips": "Upcoming Trips",
+    "total_flights": "Total Flights",
+    "total_distance": "Distance Flown",
+    "eventernote_events": "Eventernote Events",
+    "earth_loops": "{{loops}}× around Earth",
+    "top_airports": "Top Airports",
+    "top_airlines": "Top Airlines",
+    "top_venues": "Top Event Venues",
+    "top_artists": "Most Seen Performers / Units"
+  }
+}

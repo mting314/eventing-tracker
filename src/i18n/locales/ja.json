@@ -1,0 +1,64 @@
+{
+  "app": {
+    "title": "tinmsnake · 遠征＆イベントカレンダー",
+    "subtitle": "Flighty フライト履歴 × Eventernote 参加イベント連動トラッカー",
+    "subscribe_ics": "iCal購読 (.ics)",
+    "copy_ics": "iCal URLをコピー",
+    "copied": "iCal URLをコピーしました",
+    "eventernote_profile": "Eventernote (tinmsnake)"
+  },
+  "nav": {
+    "calendar": "カレンダー",
+    "trips": "遠征・フライト一覧",
+    "events": "全イベント",
+    "stats": "統計・データ"
+  },
+  "hero": {
+    "status_active": "遠征・旅行中",
+    "status_home": "サンフランシスコ (SFO) 滞在中",
+    "next_trip_in": "次の遠征まであと {{days}} 日",
+    "departing_today": "本日出発！",
+    "departing_tomorrow": "明日出発",
+    "next_trip_label": "次の遠征・旅行予定",
+    "active_trip_label": "現在の遠征・滞在",
+    "events_on_trip": "この遠征で参加予定のイベント {{count}} 件",
+    "no_events_logged": "旅行のみ（またはEventernote未登録）",
+    "view_trip_details": "フライト詳細・参加イベントを見る"
+  },
+  "calendar": {
+    "prev_month": "前月",
+    "next_month": "翌月",
+    "today": "今月",
+    "clear_day": "月全体を表示",
+    "agenda_title": "{{label}} の予定",
+    "no_activity": "この期間のフライト・イベントはありません。",
+    "legend_eventing_trip": "イベント遠征 (Flighty + Eventernote)",
+    "legend_travel_trip": "一般旅行 (Flighty)",
+    "legend_flight_day": "フライト発着日",
+    "legend_event_day": "Eventernote イベント"
+  },
+  "trips": {
+    "filter_all": "すべての遠征 ({{count}})",
+    "filter_upcoming": "今後の予定 ({{count}})",
+    "filter_eventing": "イベント遠征 ({{count}})",
+    "filter_past": "過去の遠征 ({{count}})",
+    "search_placeholder": "都市名、便名 (JL2, ZG25, NRT)、会場名、出演者で検索...",
+    "days_count": "{{count}}日間",
+    "flights_count": "{{count}}フライト",
+    "events_count": "イベント{{count}}件",
+    "telemetry_heading": "Flighty フライト詳細",
+    "events_heading": "Eventernote 連動イベント"
+  },
+  "stats": {
+    "total_trips": "総遠征・旅行数",
+    "upcoming_trips": "今後の遠征数",
+    "total_flights": "総フライト数",
+    "total_distance": "総飛行距離",
+    "eventernote_events": "Eventernote 登録数",
+    "earth_loops": "地球 {{loops}} 周分",
+    "top_airports": "利用空港ランキング",
+    "top_airlines": "航空会社ランキング",
+    "top_venues": "参加会場ランキング",
+    "top_artists": "出演者・ユニット参加回数"
+  }
+}

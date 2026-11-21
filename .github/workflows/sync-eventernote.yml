@@ -1,0 +1,39 @@
+name: Sync Eventernote Events
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # Daily at 10:00 UTC (19:00 JST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Fetch Eventernote events & rebuild trips
+        run: |
+          bun run sync:eventernote tinmsnake
+          bun run build:trips
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json data/trips.json public/calendar.ics
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): sync Eventernote events for tinmsnake"
+            git push
+          fi
