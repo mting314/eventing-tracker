@@ -21,7 +21,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Aichi> Day.2",
+    "placeEn": "Portmesse Nagoya Exhibition Hall 1"
   },
   {
     "id": "491865",
@@ -45,7 +47,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Aichi> Day.1",
+    "placeEn": "Portmesse Nagoya Exhibition Hall 1"
   },
   {
     "id": "491863",
@@ -69,7 +73,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Fukuoka> Day.2",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "491862",
@@ -93,7 +99,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Fukuoka> Day.1",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "493528",
@@ -116,7 +124,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 3rd LIVE ~Someday Our Dreams Might Come True Together~ <Tokyo> Day.2",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "493527",
@@ -139,7 +149,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 3rd LIVE ~Someday Our Dreams Might Come True Together~ <Tokyo> Day.1",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "486501",
@@ -155,7 +167,9 @@
       "諏訪ななか",
       "斉藤朱夏",
       "小林愛香"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 3>(Evening)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "486500",
@@ -171,7 +185,9 @@
       "諏訪ななか",
       "斉藤朱夏",
       "小林愛香"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 3>(Matinee)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "486499",
@@ -187,7 +203,9 @@
       "逢田梨香子",
       "高槻かなこ",
       "鈴木愛奈"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 2>(Evening)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "486498",
@@ -203,7 +221,9 @@
       "逢田梨香子",
       "高槻かなこ",
       "鈴木愛奈"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 2>(Matinee)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "486497",
@@ -219,7 +239,9 @@
       "伊波杏樹",
       "小宮有紗",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 1>(Evening)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "486496",
@@ -235,7 +257,9 @@
       "伊波杏樹",
       "小宮有紗",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! 5th Numazu Jimoto Ai (Local Love) Festival <Day 1>(Matinee)",
+    "placeEn": "Kira Messe Numazu (Plaza Verde)"
   },
   {
     "id": "491861",
@@ -259,7 +283,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Tokyo> Day.2",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "491860",
@@ -283,7 +309,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 8th LoveLive! Tour ～Our Song, Our Dreams～ <Tokyo> Day.1",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "487009",
@@ -296,7 +324,9 @@
     "place": "ぴあアリーナMM",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 6th - Crossing - Yokohama 2/28 Evening",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "487008",
@@ -309,7 +339,9 @@
     "place": "ぴあアリーナMM",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 6th - Crossing - Yokohama 2/28 Matinee",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "487006",
@@ -322,7 +354,9 @@
     "place": "ぴあアリーナMM",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 6th - Crossing - Yokohama 2/27 Matinee",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "487007",
@@ -335,7 +369,9 @@
     "place": "ぴあアリーナMM",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 6th - Crossing - Yokohama 2/27 Evening",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "500459",
@@ -418,7 +454,9 @@
       "清水理子",
       "里菜",
       "由良朱合"
-    ]
+    ],
+    "nameEn": "LoveLive! Series 15th Anniversary LoveLive! Fes Encore in TOKYO DOME Day.2",
+    "placeEn": "Tokyo Dome"
   },
   {
     "id": "500460",
@@ -495,7 +533,9 @@
       "清水理子",
       "里菜",
       "由良朱合"
-    ]
+    ],
+    "nameEn": "LoveLive! Series 15th Anniversary LoveLive! Fes Encore in TOKYO DOME Day.1",
+    "placeEn": "Tokyo Dome"
   },
   {
     "id": "485106",
@@ -519,7 +559,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Link Live Dream ~103rd Term Graduation Live~ Day.2",
+    "placeEn": "Nippon Budokan"
   },
   {
     "id": "485105",
@@ -542,7 +584,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Link Live Dream ~103rd Term Graduation Live~ Day.1",
+    "placeEn": "Nippon Budokan"
   },
   {
     "id": "485104",
@@ -568,7 +612,9 @@
       "星宮じゅりあ",
       "朝陽花菜",
       "湯浅かなえ"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Link Live Dream ~106th Term New Member Welcome Live~",
+    "placeEn": "Nippon Budokan"
   },
   {
     "id": "485016",
@@ -591,7 +637,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Link Live Dream ~Come Visit! Ishikawa Grand Sightseeing II~ Day.2",
+    "placeEn": "Ishikawa Industrial Exhibition Hall"
   },
   {
     "id": "496989",
@@ -607,7 +655,9 @@
       "星宮じゅりあ",
       "朝陽花菜",
       "湯浅かなえ"
-    ]
+    ],
+    "nameEn": "Anime Sta Ishikawa 2026 Day 1 LoveLive! Hasunosora Girls' High School Idol Club Talk Stage",
+    "placeEn": "Hokkoku Shimbun Akabane Hall (Kanazawa)"
   },
   {
     "id": "485015",
@@ -630,7 +680,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Link Live Dream ~Come Visit! Ishikawa Grand Sightseeing II~ Day.1",
+    "placeEn": "Ishikawa Industrial Exhibition Hall"
   },
   {
     "id": "464372",
@@ -714,7 +766,9 @@
       "由良朱合",
       "村山結香",
       "久保ユリカ"
-    ]
+    ],
+    "nameEn": "LoveLive! Series 15th Anniversary LoveLive! Fes Day.2",
+    "placeEn": "Vantelin Dome Nagoya"
   },
   {
     "id": "464371",
@@ -798,7 +852,9 @@
       "由良朱合",
       "村山結香",
       "久保ユリカ"
-    ]
+    ],
+    "nameEn": "LoveLive! Series 15th Anniversary LoveLive! Fes Day.1",
+    "placeEn": "Vantelin Dome Nagoya"
   },
   {
     "id": "485605",
@@ -809,7 +865,9 @@
     "rawDate": "2026-10-23 (金)",
     "dayOfWeek": "金",
     "place": "Peacock Theater (formerly Microsoft Theater)",
-    "artists": []
+    "artists": [],
+    "nameEn": "[Cancelled] Uma Musume Pretty Derby 7th EVENT WORLD TOUR “THE STAGE” in LOS ANGELES Day2",
+    "placeEn": "Peacock Theater (formerly Microsoft Theater)"
   },
   {
     "id": "485604",
@@ -820,7 +878,9 @@
     "rawDate": "2026-10-22 (木)",
     "dayOfWeek": "木",
     "place": "Peacock Theater (formerly Microsoft Theater)",
-    "artists": []
+    "artists": [],
+    "nameEn": "[Cancelled] Uma Musume Pretty Derby 7th EVENT WORLD TOUR “THE STAGE” in LOS ANGELES Day1",
+    "placeEn": "Peacock Theater (formerly Microsoft Theater)"
   },
   {
     "id": "477393",
@@ -838,7 +898,9 @@
       "夏芽",
       "倉知玲鳳",
       "紡木吏佐"
-    ]
+    ],
+    "nameEn": "BanG Dream! 13th☆LIVE DAY3 : RAISE A SUILEN「EXTREME EXPRESS」",
+    "placeEn": "Tokyo Garden Theater"
   },
   {
     "id": "477392",
@@ -856,7 +918,9 @@
       "峰月律",
       "藤都子",
       "千石ユノ"
-    ]
+    ],
+    "nameEn": "BanG Dream! 13th☆LIVE DAY2 : Mugendai Mewtype「DIMENSIONAL OVERLAP」",
+    "placeEn": "Tokyo Garden Theater"
   },
   {
     "id": "481980",
@@ -889,7 +953,9 @@
       "井上音生",
       "由良朱合",
       "村山結香"
-    ]
+    ],
+    "nameEn": "LoveLive! Series 15th Anniversary LoveLive! Fes Eve Festival FILM LIVE ~Time Capsule to the Future~ Day.2 (Matinee)",
+    "placeEn": "Shibuya LOVEZ"
   },
   {
     "id": "477391",
@@ -907,7 +973,9 @@
       "西本りみ",
       "大橋彩香",
       "伊藤彩沙"
-    ]
+    ],
+    "nameEn": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party「Now Roading♪♪」",
+    "placeEn": "Tokyo Garden Theater"
   },
   {
     "id": "483154",
@@ -936,7 +1004,9 @@
       "田辺留依",
       "鈴木みのり",
       "佐藤日向"
-    ]
+    ],
+    "nameEn": "Project SEKAI 6th Anniversary Appreciation Festival DAY2",
+    "placeEn": "Tokyo Metropolitan Gymnasium Main Arena"
   },
   {
     "id": "483153",
@@ -963,7 +1033,9 @@
       "田辺留依",
       "鈴木みのり",
       "佐藤日向"
-    ]
+    ],
+    "nameEn": "Project SEKAI 6th Anniversary Appreciation Festival DAY1",
+    "placeEn": "Tokyo Metropolitan Gymnasium Main Arena"
   },
   {
     "id": "463600",
@@ -986,7 +1058,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 2nd LIVE Dou-Da? DOING! ～Reply to L～ Day.2",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "474336",
@@ -1018,7 +1092,9 @@
       "夏目桃佳",
       "スクールアイドルミュージカル",
       "村田一紗"
-    ]
+    ],
+    "nameEn": "School Idol Musical Main Performance 9/19",
+    "placeEn": "New National Theatre Tokyo (Playhouse)"
   },
   {
     "id": "463599",
@@ -1041,7 +1117,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 2nd LIVE Dou-Da? DOING! ～Reply to L～ Day.1",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "469847",
@@ -1054,7 +1132,9 @@
     "place": "Kアリーナ横浜",
     "artists": [
       "星街すいせい"
-    ]
+    ],
+    "nameEn": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar Yokohama DAY2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "469846",
@@ -1067,7 +1147,9 @@
     "place": "Kアリーナ横浜",
     "artists": [
       "星街すいせい"
-    ]
+    ],
+    "nameEn": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar Yokohama DAY1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "478107",
@@ -1082,7 +1164,9 @@
       "LustQueen",
       "結那",
       "月音こな"
-    ]
+    ],
+    "nameEn": "LustQueen「The story resumes EXTRA」",
+    "placeEn": "Shimokitazawa Shangri-La"
   },
   {
     "id": "465384",
@@ -1109,7 +1193,9 @@
       "Aqours",
       "斉藤朱夏",
       "小林愛香"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! Yuigaoka Sports Festival Day 2 Day Session",
+    "placeEn": "Tokyo Metropolitan Gymnasium Main Arena"
   },
   {
     "id": "478489",
@@ -1136,7 +1222,9 @@
       "Aqours",
       "斉藤朱夏",
       "小林愛香"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! Yuigaoka Sports Festival Day 2 Night Session",
+    "placeEn": "Tokyo Metropolitan Gymnasium Main Arena"
   },
   {
     "id": "479929",
@@ -1152,7 +1240,9 @@
       "田辺留依",
       "鈴木みのり",
       "佐藤日向"
-    ]
+    ],
+    "nameEn": "Project SEKAI Unit Fan Meeting Nightcord at 25:00 in Oita Matinee",
+    "placeEn": "iichiko Grand Theater (Oita)"
   },
   {
     "id": "479930",
@@ -1168,7 +1258,9 @@
       "田辺留依",
       "鈴木みのり",
       "佐藤日向"
-    ]
+    ],
+    "nameEn": "Project SEKAI Unit Fan Meeting Nightcord at 25:00 in Oita Evening",
+    "placeEn": "iichiko Grand Theater (Oita)"
   },
   {
     "id": "466544",
@@ -1235,7 +1327,9 @@
       "HAPPY CREATORS",
       "来島エル",
       "SILENT SIREN"
-    ]
+    ],
+    "nameEn": "LuckyFes’26 DAY2",
+    "placeEn": "Hitachi Seaside Park (Ibaraki)"
   },
   {
     "id": "476587",
@@ -1251,7 +1345,9 @@
       "野口瑠璃子",
       "礒部花凜",
       "中島由貴"
-    ]
+    ],
+    "nameEn": "Project SEKAI Unit Fan Meeting Leo/need in Tokyo Matinee",
+    "placeEn": "LINE CUBE SHIBUYA"
   },
   {
     "id": "476586",
@@ -1267,7 +1363,9 @@
       "野口瑠璃子",
       "礒部花凜",
       "中島由貴"
-    ]
+    ],
+    "nameEn": "Project SEKAI Unit Fan Meeting Leo/need in Tokyo Evening",
+    "placeEn": "LINE CUBE SHIBUYA"
   },
   {
     "id": "462794",
@@ -1291,7 +1389,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "『LoveLive! Superstar!! Liella!Chu-Torie Live!! 2026』8/2",
+    "placeEn": "LaLa arena TOKYO-BAY"
   },
   {
     "id": "462793",
@@ -1318,7 +1418,9 @@
       "タイムマシーン3号",
       "関太(タイムマシーン3号)",
       "山本浩司(タイムマシーン3号)"
-    ]
+    ],
+    "nameEn": "『LoveLive! Superstar!! Liella!Chu-Torie Live!! 2026』8/1(Evening)",
+    "placeEn": "LaLa arena TOKYO-BAY"
   },
   {
     "id": "462792",
@@ -1345,7 +1447,9 @@
       "タイムマシーン3号",
       "山本浩司(タイムマシーン3号)",
       "関太(タイムマシーン3号)"
-    ]
+    ],
+    "nameEn": "『LoveLive! Superstar!! Liella!Chu-Torie Live!! 2026』8/1(Matinee)",
+    "placeEn": "LaLa arena TOKYO-BAY"
   },
   {
     "id": "454807",
@@ -1369,7 +1473,9 @@
       "花宮初奈",
       "佐々木琴子",
       "月音こな"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Bloom Garden Party Stage / Saitama> Day.2",
+    "placeEn": "Belluna Dome (Saitama)"
   },
   {
     "id": "454806",
@@ -1393,7 +1499,9 @@
       "花宮初奈",
       "佐々木琴子",
       "月音こな"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Bloom Garden Party Stage / Saitama> Day.1",
+    "placeEn": "Belluna Dome (Saitama)"
   },
   {
     "id": "456366",
@@ -1455,7 +1563,9 @@
       "村上聖",
       "今井隼",
       "菊嶋亮一"
-    ]
+    ],
+    "nameEn": "Animelo Summer Live 2026 -Messenger- DAY1",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "483991",
@@ -1486,7 +1596,9 @@
       "本村玲奈",
       "三波春香",
       "百瀬帆南"
-    ]
+    ],
+    "nameEn": "Animelo Summer Live 2026 -Messenger- DAY1 Mini Stage animelo presents Special Summer Live！⁣【ARCANA PROJECT/DayRe:/Maebashi Witches】",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "479411",
@@ -1499,7 +1611,9 @@
     "place": "SGC HALL ARIAKE(SGCホール有明)",
     "artists": [
       "星街すいせい"
-    ]
+    ],
+    "nameEn": "Hoshiyomi Pajama Party Vol.1 Tokyo",
+    "placeEn": "SGC HALL ARIAKE"
   },
   {
     "id": "450873",
@@ -1524,7 +1638,9 @@
       "櫻井陸来",
       "奈良悠樹",
       "西村奈央"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! Guilty Kiss × Saint Snow TWO-MAN LIVE Day.2",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "450872",
@@ -1544,7 +1660,9 @@
       "田野アサミ",
       "佐藤日向",
       "GKSS"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! Guilty Kiss × Saint Snow TWO-MAN LIVE \"VS\" Day.1",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "451496",
@@ -1570,7 +1688,9 @@
       "内田秀",
       "法元明菜",
       "矢野妃菜喜"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club 8th Live! TOKIMEKI Express <Osaka> Day.2",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "451495",
@@ -1596,7 +1716,9 @@
       "内田秀",
       "法元明菜",
       "矢野妃菜喜"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club 8th Live! TOKIMEKI Express <Osaka> Day.1",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "454805",
@@ -1616,7 +1738,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Party Stage / Kanagawa> Day.2",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "454804",
@@ -1636,7 +1760,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Party Stage / Kanagawa> Day.1",
+    "placeEn": "Pia Arena MM (Yokohama)"
   },
   {
     "id": "466677",
@@ -1649,7 +1775,9 @@
     "place": "横浜市西公会堂",
     "artists": [
       "鈴原希実"
-    ]
+    ],
+    "nameEn": "Koeken! Nozomi Suzuhara Talk Show ~Non-Stop! Library~",
+    "placeEn": "Yokohama Nishi Public Hall"
   },
   {
     "id": "454803",
@@ -1670,7 +1798,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Garden Stage / Hyogo> Day.2",
+    "placeEn": "World Memorial Hall (Kobe)"
   },
   {
     "id": "454802",
@@ -1691,7 +1821,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Garden Stage / Hyogo> Day.1",
+    "placeEn": "World Memorial Hall (Kobe)"
   },
   {
     "id": "454801",
@@ -1712,7 +1844,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Bloom Stage / Fukuoka> Day.2",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "454800",
@@ -1733,7 +1867,9 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 6th Live Dream ～Bloom Garden Party～ <Bloom Stage / Fukuoka> Day.1",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "467104",
@@ -1749,7 +1885,9 @@
       "理名",
       "夕莉",
       "朱李"
-    ]
+    ],
+    "nameEn": "Togenashi Togeari TOUR 2026 FINAL “Pulsing Future -ENCORE-”",
+    "placeEn": "Tokyo Garden Theater"
   },
   {
     "id": "450007",
@@ -1798,7 +1936,9 @@
       "三川華月",
       "小澤麗那",
       "白石晴香"
-    ]
+    ],
+    "nameEn": "THE IDOLM@STER SHINY COLORS ∞th LIVE Ai to Yume DAY2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "450006",
@@ -1846,7 +1986,9 @@
       "小澤麗那",
       "丸岡和佳奈",
       "幸村恵理"
-    ]
+    ],
+    "nameEn": "THE IDOLM@STER SHINY COLORS ∞th LIVE Ai to Yume DAY1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "454823",
@@ -1863,7 +2005,9 @@
       "花宮初奈",
       "松岡美里",
       "花井美春"
-    ]
+    ],
+    "nameEn": "Tenrougun 1st LIVE -Fenrir- Night Session",
+    "placeEn": "Atsugi City Culture Hall"
   },
   {
     "id": "454822",
@@ -1880,7 +2024,9 @@
       "花宮初奈",
       "松岡美里",
       "花井美春"
-    ]
+    ],
+    "nameEn": "Tenrougun 1st LIVE -Fenrir- Day Session",
+    "placeEn": "Atsugi City Culture Hall"
   },
   {
     "id": "445739",
@@ -1896,7 +2042,9 @@
       "理名",
       "夕莉",
       "朱李"
-    ]
+    ],
+    "nameEn": "Togenashi Togeari Zepp Tour 2026 “Pulsing Future” Zepp Diver City day1",
+    "placeEn": "Zepp DiverCity (TOKYO)"
   },
   {
     "id": "440739",
@@ -1920,7 +2068,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 7th LoveLive! <Aichi> Day.2",
+    "placeEn": "Aichi Sky Expo"
   },
   {
     "id": "420629",
@@ -1992,7 +2142,9 @@
       "豊田萌絵",
       "黒沢ともよ",
       "日笠陽子"
-    ]
+    ],
+    "nameEn": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "455348",
@@ -2005,7 +2157,9 @@
     "place": "イオンモール幕張新都心 グランドモール屋外 グランドスクエア",
     "artists": [
       "岬なこ"
-    ]
+    ],
+    "nameEn": "Nako Misaki 2nd Album \"Repeated Reflect\" Release Free Live & Autograph Session",
+    "placeEn": "AEON Mall Makuhari New City Grand Square"
   },
   {
     "id": "443312",
@@ -2028,7 +2182,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 1st LIVE ～ What is my L ? ～ Day.2",
+    "placeEn": "Makuhari Messe Event Hall"
   },
   {
     "id": "442284",
@@ -2046,7 +2202,9 @@
       "山本陽介",
       "三沢崇篤",
       "柴﨑洋輔"
-    ]
+    ],
+    "nameEn": "DECO*27 × Hatsune Miku LIVE \"Hello\" Matinee",
+    "placeEn": "Yoyogi National 1st Gymnasium"
   },
   {
     "id": "443311",
@@ -2069,7 +2227,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "Ikizurai-bu! 1st LIVE ～ What is my L ? ～ Day.1",
+    "placeEn": "Makuhari Messe Event Hall"
   },
   {
     "id": "453417",
@@ -2094,7 +2254,9 @@
       "中橋沙里乃",
       "野田裕貴",
       "斉藤瑞季"
-    ]
+    ],
+    "nameEn": "LIVE STAGE \"Bocchi the Rock!\" 2026 RE:boot 2/1319:00 (Live)",
+    "placeEn": "THEATER MILANO-Za (Shinjuku)"
   },
   {
     "id": "454824",
@@ -2109,7 +2271,9 @@
       "天狼群",
       "橘杏咲",
       "花宮初奈"
-    ]
+    ],
+    "nameEn": "Tenrougun Send-Off Party ~Spring Thunder~",
+    "placeEn": "Animate Ikebukuro Flagship 9F Hall BLACK"
   },
   {
     "id": "445734",
@@ -2125,7 +2289,9 @@
       "朱李",
       "夕莉",
       "理名"
-    ]
+    ],
+    "nameEn": "Togenashi Togeari Zepp Tour 2026 “Pulsing Future” KT Zepp Yokohama",
+    "placeEn": "KT Zepp Yokohama"
   },
   {
     "id": "453853",
@@ -2150,7 +2316,9 @@
       "中橋沙里乃",
       "野田裕貴",
       "斉藤瑞季"
-    ]
+    ],
+    "nameEn": "LIVE STAGE \"Bocchi the Rock!\" 2026 RE:boot 2/1012:30 (Stage)",
+    "placeEn": "THEATER MILANO-Za (Shinjuku)"
   },
   {
     "id": "440737",
@@ -2174,7 +2342,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 7th LoveLive! ～Fly! MUSIC WORLD♪～ <Kanagawa> Day.2",
+    "placeEn": "Yokohama Arena"
   },
   {
     "id": "440736",
@@ -2198,7 +2368,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 7th LoveLive! ～Fly! MUSIC WORLD♪～ <Kanagawa> Day.1",
+    "placeEn": "Yokohama Arena"
   },
   {
     "id": "438971",
@@ -2211,7 +2383,9 @@
     "place": "幕張メッセ 国際展示場ホール",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 5th - Frontier - Tokyo 1/25 Matinee",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "438969",
@@ -2224,7 +2398,9 @@
     "place": "幕張メッセ 国際展示場ホール",
     "artists": [
       "プロジェクトセカイ カラフルステージ！"
-    ]
+    ],
+    "nameEn": "Project SEKAI COLORFUL LIVE 5th - Frontier - Tokyo 1/25 Evening",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "443140",
@@ -2273,7 +2449,9 @@
       "村山結香",
       "山田杏佳",
       "山野愛月"
-    ]
+    ],
+    "nameEn": "LAWSON 50th Anniversary presents ＝LOVE・≠ME・≒JOY Special LIVE",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "453509",
@@ -2301,7 +2479,9 @@
       "鈴木華凜",
       "東恩納瑠花",
       "宮﨑菜々"
-    ]
+    ],
+    "nameEn": "Special Live Event Let’s have fun together",
+    "placeEn": "KT Zepp Yokohama"
   },
   {
     "id": "450592",
@@ -2314,7 +2494,9 @@
     "place": "Zepp Haneda (TOKYO)",
     "artists": [
       "蓮ノ空女学院スクールアイドルクラブ"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 103-105th Fes×ReC：LIVE ～Road to Bloom～<Show 3>",
+    "placeEn": "Zepp Haneda (TOKYO)"
   },
   {
     "id": "450591",
@@ -2327,7 +2509,9 @@
     "place": "Zepp Haneda (TOKYO)",
     "artists": [
       "蓮ノ空女学院スクールアイドルクラブ"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 103-105th Fes×ReC：LIVE ～Road to Bloom～<Show 2>",
+    "placeEn": "Zepp Haneda (TOKYO)"
   },
   {
     "id": "450590",
@@ -2340,7 +2524,9 @@
     "place": "Zepp Haneda (TOKYO)",
     "artists": [
       "蓮ノ空女学院スクールアイドルクラブ"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 103-105th Fes×ReC：LIVE ～Road to Bloom～<Show 1>",
+    "placeEn": "Zepp Haneda (TOKYO)"
   },
   {
     "id": "429905",
@@ -2360,7 +2546,9 @@
       "法元明菜",
       "矢野妃菜喜",
       "虹ヶ咲学園スクールアイドル同好会"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』DAY.2",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "429904",
@@ -2380,7 +2568,9 @@
       "久保田未夢",
       "矢野妃菜喜",
       "虹ヶ咲学園スクールアイドル同好会"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』DAY.1",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "432625",
@@ -2405,7 +2595,9 @@
       "DOLLCHESTRA",
       "みらくらぱーく！",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Cerise Bouquet presents Clover Stage＞ Day.2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "432624",
@@ -2430,7 +2622,9 @@
       "DOLLCHESTRA",
       "みらくらぱーく！",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Cerise Bouquet presents Clover Stage＞ Day.1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "432623",
@@ -2455,7 +2649,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Edel Note presents Spade Stage＞ Day.2",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "432622",
@@ -2480,7 +2676,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Edel Note presents Spade Stage＞ Day.1",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "432621",
@@ -2505,7 +2703,9 @@
       "スリーズブーケ",
       "みらくらぱーく！",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜DOLLCHESTRA presents Diamond Stage＞ Day.2",
+    "placeEn": "Aichi Sky Expo"
   },
   {
     "id": "432620",
@@ -2530,7 +2730,9 @@
       "スリーズブーケ",
       "みらくらぱーく！",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜DOLLCHESTRA presents Diamond Stage＞ Day.1",
+    "placeEn": "Aichi Sky Expo"
   },
   {
     "id": "432619",
@@ -2555,7 +2757,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Mira-Cra Park! presents Heart Stage＞ Day.2",
+    "placeEn": "Yoyogi National 1st Gymnasium"
   },
   {
     "id": "432618",
@@ -2580,7 +2784,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Mira-Cra Park! presents Heart Stage＞ Day.1",
+    "placeEn": "Yoyogi National 1st Gymnasium"
   },
   {
     "id": "397276",
@@ -2612,7 +2818,9 @@
       "佐藤日向",
       "矢野妃菜喜",
       "薮島朱音"
-    ]
+    ],
+    "nameEn": "AiScReam presents TOPPING LIVE Come See Us Before We Melt ♡♡♡ Day.2",
+    "placeEn": "Pacifico Yokohama National Convention Hall"
   },
   {
     "id": "397275",
@@ -2646,7 +2854,9 @@
       "小宮有紗",
       "矢野妃菜喜",
       "薮島朱音"
-    ]
+    ],
+    "nameEn": "AiScReam presents TOPPING LIVE Come See Us Before We Melt ♡♡♡ Day.1",
+    "placeEn": "Pacifico Yokohama National Convention Hall"
   },
   {
     "id": "405241",
@@ -2706,7 +2916,9 @@
       "REAL AKIBA BOYZ(リアルアキバボーイズ)",
       "奥井雅美",
       "中西(HoneyWorks/HoneyMonster)"
-    ]
+    ],
+    "nameEn": "Animelo Summer Live 2025 -ThanXX!- Day3",
+    "placeEn": "Saitama Super Arena"
   },
   {
     "id": "405240",
@@ -2779,7 +2991,9 @@
       "ミルキィホームズ フェザーズ",
       "伊藤彩沙",
       "ミルキィホームズ シスターズ"
-    ]
+    ],
+    "nameEn": "Animelo Summer Live 2025 -ThanXX!- Day2",
+    "placeEn": "Saitama Super Arena"
   },
   {
     "id": "405239",
@@ -2833,7 +3047,9 @@
       "小倉唯",
       "Motsu",
       "ボンジュール鈴木"
-    ]
+    ],
+    "nameEn": "Animelo Summer Live 2025 -ThanXX!- Day1",
+    "placeEn": "Saitama Super Arena"
   },
   {
     "id": "397471",
@@ -2850,7 +3066,9 @@
       "久保田未夢",
       "鬼頭明里",
       "法元明菜"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club LIVE & FAN MEETING TOUR Nijigaku Field Trip ~Sing, Dance, Talk~ Aichi DAY.2 (Matinee)",
+    "placeEn": "Niterra Civic Hall Forest Hall (Nagoya)"
   },
   {
     "id": "402829",
@@ -2867,7 +3085,9 @@
       "久保田未夢",
       "鬼頭明里",
       "法元明菜"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club LIVE & FAN MEETING TOUR Nijigaku Field Trip ~Sing, Dance, Talk~ Aichi DAY.2 (Evening)",
+    "placeEn": "Niterra Civic Hall Forest Hall (Nagoya)"
   },
   {
     "id": "397470",
@@ -2884,7 +3104,9 @@
       "久保田未夢",
       "鬼頭明里",
       "法元明菜"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club LIVE & FAN MEETING TOUR Nijigaku Field Trip ~Sing, Dance, Talk~ Aichi DAY.1",
+    "placeEn": "Niterra Civic Hall Forest Hall (Nagoya)"
   },
   {
     "id": "425156",
@@ -2933,7 +3155,9 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音"
-    ]
+    ],
+    "nameEn": "DAY3：U-NEXT MUSIC FES LoveLive! Series EXPO STAGE ～Right now!～",
+    "placeEn": "Osaka-Kansai Expo Arena \"Matsuri\""
   },
   {
     "id": "433452",
@@ -2959,7 +3183,9 @@
       "Sunny Passion",
       "結木ゆな",
       "吉武千颯"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! Special LoveLive! ～Connect the Stars～",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "426451",
@@ -2977,7 +3203,9 @@
       "ペイトン尚未",
       "岬なこ",
       "青山なぎさ"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! First Generation LoveLive! ～Wonderful Starlines～ <Tokyo> Day2",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "426450",
@@ -2995,7 +3223,9 @@
       "ペイトン尚未",
       "岬なこ",
       "青山なぎさ"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! First Generation LoveLive! ～Wonderful Starlines～ <Tokyo> Day1",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "426449",
@@ -3013,7 +3243,9 @@
       "ペイトン尚未",
       "岬なこ",
       "青山なぎさ"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! First Generation LoveLive! ～Wonderful Starlines～ <Osaka> Day2",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "426448",
@@ -3031,7 +3263,9 @@
       "ペイトン尚未",
       "岬なこ",
       "青山なぎさ"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! First Generation LoveLive! ～Wonderful Starlines～ <Osaka> Day1",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "401189",
@@ -3053,7 +3287,9 @@
       "高槻かなこ",
       "鈴木愛奈",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! Aqours Finale LoveLive! ~Eikyuu (Eternal) Stage~ Day.2",
+    "placeEn": "Belluna Dome (Saitama)"
   },
   {
     "id": "401188",
@@ -3075,7 +3311,9 @@
       "高槻かなこ",
       "鈴木愛奈",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LoveLive! Sunshine!! Aqours Finale LoveLive! ~Eikyuu (Eternal) Stage~ Day.1",
+    "placeEn": "Belluna Dome (Saitama)"
   },
   {
     "id": "406178",
@@ -3099,7 +3337,9 @@
       "峰月律",
       "藤都子",
       "千石ユノ"
-    ]
+    ],
+    "nameEn": "Roselia「Sei stark」",
+    "placeEn": "Ariake Arena"
   },
   {
     "id": "396310",
@@ -3122,7 +3362,9 @@
       "大熊和奏",
       "絵森彩",
       "結那"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Osaka> Day2",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "396309",
@@ -3145,7 +3387,9 @@
       "大熊和奏",
       "絵森彩",
       "結那"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Osaka> Day1",
+    "placeEn": "Osaka-jo Hall"
   },
   {
     "id": "412379",
@@ -3173,7 +3417,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <102nd Term Graduation Live> Day.2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "412378",
@@ -3201,7 +3447,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <102nd Term Graduation Live> Day.1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "412377",
@@ -3229,7 +3477,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <Hyogo> Day.2",
+    "placeEn": "GLION ARENA KOBE"
   },
   {
     "id": "412376",
@@ -3257,7 +3507,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <Hyogo> Day.1",
+    "placeEn": "GLION ARENA KOBE"
   },
   {
     "id": "396308",
@@ -3281,7 +3533,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Fukuoka> Day2",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "396307",
@@ -3305,7 +3559,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Fukuoka> Day1",
+    "placeEn": "Marine Messe Fukuoka Hall B"
   },
   {
     "id": "412375",
@@ -3333,7 +3589,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <Ishikawa> Day.2",
+    "placeEn": "Ishikawa Industrial Exhibition Hall"
   },
   {
     "id": "412374",
@@ -3361,7 +3619,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 4th Live Dream ～Bloom, The Dream Believers～ <Ishikawa> Day.1",
+    "placeEn": "Ishikawa Industrial Exhibition Hall"
   },
   {
     "id": "396306",
@@ -3385,7 +3645,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Miyagi> Day2",
+    "placeEn": "Sekisui Heim Super Arena (Miyagi)"
   },
   {
     "id": "396305",
@@ -3409,7 +3671,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Miyagi> Day1",
+    "placeEn": "Sekisui Heim Super Arena (Miyagi)"
   },
   {
     "id": "396304",
@@ -3433,7 +3697,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Aichi> Day2",
+    "placeEn": "Aichi Sky Expo"
   },
   {
     "id": "396303",
@@ -3457,7 +3723,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Aichi> Day1",
+    "placeEn": "Aichi Sky Expo"
   },
   {
     "id": "396302",
@@ -3481,7 +3749,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Tokyo> Day2",
+    "placeEn": "Yoyogi National 1st Gymnasium"
   },
   {
     "id": "396301",
@@ -3505,7 +3775,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 6th LoveLive! Tour ～Let's be ONE～ <Tokyo> Day1",
+    "placeEn": "Yoyogi National 1st Gymnasium"
   },
   {
     "id": "385040",
@@ -3555,7 +3827,9 @@
       "内田彩",
       "Pile",
       "AiScReam"
-    ]
+    ],
+    "nameEn": "LoveLive! Series Asia Tour 2024 ~A Story Achieved Together~ Yokohama <Day 2>",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "385039",
@@ -3605,7 +3879,9 @@
       "内田彩",
       "Pile",
       "AiScReam"
-    ]
+    ],
+    "nameEn": "LoveLive! Series Asia Tour 2024 ~A Story Achieved Together~ Yokohama <Day 1>",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "395959",
@@ -3618,7 +3894,9 @@
     "place": "タワーレコード渋谷店B1F CUTUP STUDIO",
     "artists": [
       "来栖りん"
-    ]
+    ],
+    "nameEn": "Rin Kurusu 3rd Single \"Watcha-ne?\" Release Event @ Tower Records Shibuya",
+    "placeEn": "Tower Records Shibuya B1F CUTUP STUDIO"
   },
   {
     "id": "401403",
@@ -3634,7 +3912,9 @@
       "野中ここな",
       "竹内栄治",
       "神尾晋一郎"
-    ]
+    ],
+    "nameEn": "Sci-Fi Reading Drama \"The War of the Worlds\"1/13 12:30",
+    "placeEn": "I'M A SHOW (Yurakucho)"
   },
   {
     "id": "385555",
@@ -3656,7 +3936,9 @@
       "青柳萌",
       "岡本梨紗子",
       "真野崚磨"
-    ]
+    ],
+    "nameEn": "TRUE 10th Anniversary Live Sound! Final ~Culmination~",
+    "placeEn": "Zepp DiverCity (TOKYO)"
   },
   {
     "id": "392844",
@@ -3669,7 +3951,9 @@
     "place": "科学技術館サイエンスホール",
     "artists": [
       "大西亜玖璃"
-    ]
+    ],
+    "nameEn": "Aguri Onishi 7th Single \"Auftakt\" Release ~Agupon New Year Party 2025~ (Day Session)",
+    "placeEn": "Science Museum Science Hall (Tokyo)"
   },
   {
     "id": "397910",
@@ -3700,7 +3984,9 @@
       "矢頭梨央奈",
       "橘高けい",
       "日向渚"
-    ]
+    ],
+    "nameEn": "Stage Play \"Yume no Kakera wo Uta ni Nosetara\"1/11 13:00",
+    "placeEn": "Shinjukumura LIVE"
   },
   {
     "id": "383517",
@@ -3727,7 +4013,9 @@
       "みらくらぱーく！",
       "進藤あまね",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 3rd Live Tour TRI TRI UNITY!!! Day.2",
+    "placeEn": "Yokohama Arena"
   },
   {
     "id": "383516",
@@ -3754,7 +4042,9 @@
       "みらくらぱーく！",
       "進藤あまね",
       "Edel Note"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 3rd Live Tour TRI TRI UNITY!!! Day.1",
+    "placeEn": "Yokohama Arena"
   },
   {
     "id": "383151",
@@ -3772,7 +4062,9 @@
       "夏芽",
       "倉知玲鳳",
       "紡木吏佐"
-    ]
+    ],
+    "nameEn": "RAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」Aichi",
+    "placeEn": "Zepp Nagoya"
   },
   {
     "id": "380208",
@@ -3792,7 +4084,9 @@
       "Pile",
       "飯田里穂",
       "楠田亜衣奈"
-    ]
+    ],
+    "nameEn": "TV Anime 10th Anniversary LoveLive! Orchestra Concert <Encore>Day.1",
+    "placeEn": "Pacifico Yokohama National Convention Hall"
   },
   {
     "id": "390494",
@@ -3817,7 +4111,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Live & Fan Meeting TRY TRY UNITY!!! Day.2",
+    "placeEn": "Ryogoku Kokugikan"
   },
   {
     "id": "390493",
@@ -3842,7 +4138,9 @@
       "スリーズブーケ",
       "DOLLCHESTRA",
       "みらくらぱーく！"
-    ]
+    ],
+    "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club Live & Fan Meeting TRY TRY UNITY!!! Day.1",
+    "placeEn": "Ryogoku Kokugikan"
   },
   {
     "id": "377153",
@@ -3869,7 +4167,9 @@
       "法元明菜",
       "矢野妃菜喜",
       "あみ(龍杏美)"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club 7th Live! NEW TOKIMEKI LAND DAY2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "377152",
@@ -3896,7 +4196,9 @@
       "法元明菜",
       "矢野妃菜喜",
       "あみ(龍杏美)"
-    ]
+    ],
+    "nameEn": "LoveLive! Nijigasaki High School Idol Club 7th Live! NEW TOKIMEKI LAND DAY1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "369458",
@@ -3923,7 +4225,9 @@
       "大熊和奏",
       "絵森彩",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! Unit Live & Fan Meeting Tour ~Mind, Technique, Body! Ultimate Adventure!! Final Chapter~ <Kanagawa> Day2",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "369457",
@@ -3950,7 +4254,9 @@
       "大熊和奏",
       "絵森彩",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! Unit Live & Fan Meeting Tour ~Mind, Technique, Body! Ultimate Adventure!! Final Chapter~ <Kanagawa> Day1",
+    "placeEn": "K-Arena Yokohama"
   },
   {
     "id": "354135",
@@ -3974,7 +4280,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 5th LoveLive! ～Twinkle Triangle～ Tokyo Day2",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "354134",
@@ -3998,7 +4306,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "LoveLive! Superstar!! Liella! 5th LoveLive! ～Twinkle Triangle～ Tokyo Day1",
+    "placeEn": "Keio Arena TOKYO (Musashino Forest Sport Plaza)"
   },
   {
     "id": "341260",
@@ -4022,7 +4332,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "「LoveLive! Superstar!! Liella! 4th LoveLive! Tour ～brand new Sparkle～」Chiba＜KALEIDOSCORE edition＞Day2",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "341259",
@@ -4046,7 +4358,9 @@
       "絵森彩",
       "結那",
       "坂倉花"
-    ]
+    ],
+    "nameEn": "「LoveLive! Superstar!! Liella! 4th LoveLive! Tour ～brand new Sparkle～」Chiba＜KALEIDOSCORE edition＞Day1",
+    "placeEn": "Makuhari Messe International Exhibition Hall"
   },
   {
     "id": "209268",
@@ -4067,7 +4381,9 @@
       "高槻かなこ",
       "鈴木愛奈",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LOVE LIVE! SUNSHINE!! Aqours World LoveLive! in LA ～BRAND NEW WAVE～ DAY2",
+    "placeEn": "The Novo by Microsoft"
   },
   {
     "id": "209267",
@@ -4088,7 +4404,9 @@
       "高槻かなこ",
       "鈴木愛奈",
       "降幡愛"
-    ]
+    ],
+    "nameEn": "LOVE LIVE! SUNSHINE!! Aqours World LoveLive! in LA ～BRAND NEW WAVE～ DAY1",
+    "placeEn": "The Novo by Microsoft"
   },
   {
     "id": "156947",
@@ -4113,6 +4431,8 @@
       "CYaRon!",
       "AZALEA",
       "Guilty Kiss"
-    ]
+    ],
+    "nameEn": "Anisong World Matsuri at AX 2018 LOVELIVE! SUNSHINE!! Aqours World Love Live! in LA ~Beyond the Pacific~",
+    "placeEn": "Peacock Theater (formerly Microsoft Theater)"
   }
 ]

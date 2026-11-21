@@ -116,6 +116,7 @@ describe('trip-cluster & ics-generator', () => {
     const trips = buildTrips([outbound, inbound], [ev], '2026-11-21');
     expect(trips).toHaveLength(1);
     expect(trips[0]!.primaryRegion).toBe('Tokyo, Japan');
+    expect(trips[0]!.title).toBe('蓮ノ空 Link Live Dream ～103期卒業公演～');
     expect(trips[0]!.isEventingTrip).toBe(true);
     expect(trips[0]!.events).toHaveLength(1);
     expect(trips[0]!.events[0]!.id).toBe('485105');

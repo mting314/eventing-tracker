@@ -7,6 +7,7 @@ import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 import type { EventernoteEvent, PublicFlightRecord, TripOverride } from '../src/types';
 import { generateIcsCalendar } from '../src/utils/ics-generator';
+import { translateEventNameToEn, translateVenueToEn } from '../src/utils/translate-ja-en';
 import { buildTrips } from '../src/utils/trip-cluster';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -19,9 +20,17 @@ const icsOutPath = join(here, '../public/calendar.ics');
 const flights: PublicFlightRecord[] = existsSync(flightsPath)
   ? JSON.parse(readFileSync(flightsPath, 'utf8'))
   : [];
-const events: EventernoteEvent[] = existsSync(eventsPath)
+const rawEvents: EventernoteEvent[] = existsSync(eventsPath)
   ? JSON.parse(readFileSync(eventsPath, 'utf8'))
   : [];
+const events: EventernoteEvent[] = rawEvents.map((ev) => ({
+  ...ev,
+  nameEn: translateEventNameToEn(ev.name),
+  placeEn: translateVenueToEn(ev.place)
+}));
+if (existsSync(eventsPath)) {
+  writeFileSync(eventsPath, JSON.stringify(events, null, 2));
+}
 const overrides: TripOverride[] = existsSync(overridesPath)
   ? JSON.parse(readFileSync(overridesPath, 'utf8'))
   : [];

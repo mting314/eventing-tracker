@@ -13,7 +13,8 @@ export function TripDetailModal({
   trip: Trip | null;
   onClose: () => void;
 }) {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
 
   useEffect(() => {
     if (!trip) return;
@@ -93,7 +94,7 @@ export function TripDetailModal({
                 </Box>
               </HStack>
               <Box textStyle="display" fontSize={{ base: 'xl', md: '2xl' }} fontWeight="black">
-                {trip.title}
+                {isJa ? trip.title : (trip.titleEn ?? trip.title)}
               </Box>
               <HStack gap="3" fontSize="xs" color="fg.muted" flexWrap="wrap">
                 <HStack gap="1">

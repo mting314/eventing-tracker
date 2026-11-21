@@ -27,7 +27,8 @@ export function StatsView({
   flights: PublicFlightRecord[];
   events: EventernoteEvent[];
 }) {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
 
   const stats = useMemo(() => {
     const validFlights = flights.filter((f) => !f.is_cancelled);
@@ -47,7 +48,9 @@ export function StatsView({
       validFlights.map((f) => `${f.airline_name} (${f.airline_iata})`)
     );
 
-    const topVenues = countTop(events.map((e) => e.place));
+    const topVenues = countTop(
+      events.map((e) => (isJa ? e.place : (e.placeEn ?? e.place)))
+    );
     const topArtists = countTop(events.flatMap((e) => e.artists), 10);
 
     // Year x Month activity heatmap

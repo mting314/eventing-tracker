@@ -60,18 +60,21 @@ export interface PublicFlightRecord {
 export interface EventernoteEvent {
   id: string;
   name: string;
+  nameEn?: string;
   href: string;
   url: string;
   date: string;
   rawDate: string;
   dayOfWeek: string;
   place: string;
+  placeEn?: string;
   artists: string[];
 }
 
 export interface Trip {
   id: string;
   title: string;
+  titleEn?: string;
   primaryRegion: string;
   countries: string[];
   cities: string[];

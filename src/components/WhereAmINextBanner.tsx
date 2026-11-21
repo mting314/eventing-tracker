@@ -22,7 +22,9 @@ export function WhereAmINextBanner({
   todayStr: string;
   onSelectTrip: (trip: Trip) => void;
 }) {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
+  const tripTitle = (tr: Trip) => (isJa ? tr.title : (tr.titleEn ?? tr.title));
 
   const activeTrip = trips.find((tr) => tr.status === 'active');
   const upcomingTrips = trips
@@ -126,7 +128,7 @@ export function WhereAmINextBanner({
                     WebkitTextFillColor: 'transparent'
                   }}
                 >
-                  {spotlightTrip.title}
+                  {tripTitle(spotlightTrip)}
                 </Box>
                 <Box
                   as="span"
@@ -266,7 +268,7 @@ export function WhereAmINextBanner({
                       )}
                     </Flex>
                     <Box fontSize="xs" fontWeight="bold">
-                      {tr.title}
+                      {tripTitle(tr)}
                     </Box>
                     <Box fontSize="2xs" color="fg.muted">
                       {tr.flights.map((f) => `${f.airline_iata}${f.flight_number}`).join(' · ')} (

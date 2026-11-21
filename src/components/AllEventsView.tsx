@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import {
   FaArrowUpRightFromSquare,
   FaGrip,
@@ -21,6 +22,8 @@ export function AllEventsView({
   todayStr: string;
   onSelectTrip: (trip: Trip) => void;
 }) {
+  const { i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
   const [query, setQuery] = useState('');
   const [yearFilter, setYearFilter] = useState('all');
   const [scope, setScope] = useState<'all' | 'upcoming' | 'past'>('all');
@@ -54,11 +57,14 @@ export function AllEventsView({
       const trip = tripByEventId.get(ev.id);
       const haystack = [
         ev.name,
+        ev.nameEn ?? '',
         ev.place,
+        ev.placeEn ?? '',
         ev.date,
         ...ev.artists,
         trip?.primaryRegion ?? '',
-        trip?.title ?? ''
+        trip?.title ?? '',
+        trip?.titleEn ?? ''
       ]
         .join(' ')
         .toLowerCase();
@@ -276,12 +282,12 @@ export function AllEventsView({
                           gap: '6px'
                         }}
                       >
-                        <span>{ev.name}</span>
+                        <span>{isJa ? ev.name : (ev.nameEn ?? ev.name)}</span>
                         <FaArrowUpRightFromSquare size={10} style={{ color: '#ff87b8' }} />
                       </a>
                     </td>
                     <td style={{ padding: '10px 12px', color: 'rgba(255,255,255,0.75)' }}>
-                      {ev.place}
+                      {isJa ? ev.place : (ev.placeEn ?? ev.place)}
                     </td>
                     <td style={{ padding: '10px 12px' }}>
                       {trip ? (

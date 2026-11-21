@@ -21,7 +21,9 @@ export function TripsListView({
   trips: Trip[];
   onSelectTrip: (trip: Trip) => void;
 }) {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
+  const tripTitle = (tr: Trip) => (isJa ? tr.title : (tr.titleEn ?? tr.title));
   const [filter, setFilter] = useState<TripFilter>('upcoming');
   const [query, setQuery] = useState('');
 
@@ -45,6 +47,7 @@ export function TripsListView({
 
       const haystack = [
         tr.title,
+        tr.titleEn ?? '',
         tr.primaryRegion,
         tr.startDate,
         tr.endDate,
@@ -58,7 +61,13 @@ export function TripsListView({
           f.departure_city,
           f.arrival_city
         ]),
-        ...tr.events.flatMap((ev) => [ev.name, ev.place, ...ev.artists])
+        ...tr.events.flatMap((ev) => [
+          ev.name,
+          ev.nameEn ?? '',
+          ev.place,
+          ev.placeEn ?? '',
+          ...ev.artists
+        ])
       ]
         .join(' ')
         .toLowerCase();
@@ -219,7 +228,7 @@ export function TripsListView({
                     fontSize={{ base: 'lg', md: 'xl' }}
                     fontWeight="bold"
                   >
-                    {trip.title}
+                    {tripTitle(trip)}
                   </Box>
 
                   <HStack gap="3" fontSize="xs" color="fg.muted" flexWrap="wrap">

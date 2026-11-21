@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import { FaArrowUpRightFromSquare, FaLocationDot, FaMicrophoneLines } from 'react-icons/fa6';
 import { Box, Flex, HStack, Stack } from 'styled-system/jsx';
 import type { EventernoteEvent } from '~/types';
@@ -12,6 +13,10 @@ export function EventernoteCard({
   tripBadge?: string;
   compact?: boolean;
 }) {
+  const { i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
+  const displayName = isJa ? event.name : (event.nameEn ?? event.name);
+  const displayPlace = isJa ? event.place : (event.placeEn ?? event.place);
   const [expandedArtists, setExpandedArtists] = useState(false);
   const maxArtists = compact ? 6 : 12;
   const visibleArtists = expandedArtists ? event.artists : event.artists.slice(0, maxArtists);
@@ -90,14 +95,14 @@ export function EventernoteCard({
           lineHeight="1.4"
           style={{ wordBreak: 'break-word' }}
         >
-          {event.name}
+          {displayName}
         </Box>
 
-        {event.place && (
+        {displayPlace && (
           <HStack gap="1.5" fontSize="xs" color="fg.muted" alignItems="center">
             <FaLocationDot size={12} style={{ color: '#e4007f', flexShrink: 0 }} />
             <Box as="span" style={{ wordBreak: 'break-word' }}>
-              {event.place}
+              {displayPlace}
             </Box>
           </HStack>
         )}

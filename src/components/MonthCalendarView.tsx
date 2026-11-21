@@ -29,6 +29,8 @@ export function MonthCalendarView({
   onSelectTrip: (trip: Trip) => void;
 }) {
   const { t, i18n } = useTranslation();
+  const isJa = i18n.language.startsWith('ja');
+  const tripTitle = (tr: Trip) => (isJa ? tr.title : (tr.titleEn ?? tr.title));
 
   const initialDate = useMemo(() => {
     const [y, m] = todayStr.split('-').map(Number);
@@ -538,7 +540,7 @@ export function MonthCalendarView({
                     <Stack gap="0.5">
                       <HStack gap="2" flexWrap="wrap">
                         <Box fontWeight="bold" fontSize="sm">
-                          {tr.title}
+                          {tripTitle(tr)}
                         </Box>
                         <Box
                           as="span"
