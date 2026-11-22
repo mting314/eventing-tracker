@@ -617,6 +617,27 @@
     "placeEn": "Nippon Budokan"
   },
   {
+    "id": "485637",
+    "name": "EVANESCENCE 2026 JAPAN 東京公演 12/1",
+    "href": "/events/485637",
+    "url": "https://www.eventernote.com/events/485637",
+    "date": "2026-12-01",
+    "rawDate": "2026-12-01 (火)",
+    "dayOfWeek": "火",
+    "place": "SGC HALL ARIAKE(SGCホール有明)",
+    "artists": [
+      "Evanescence",
+      "Ave Mujica",
+      "佐々木李子",
+      "渡瀬結月",
+      "岡田夢以",
+      "米澤茜",
+      "高尾奏音"
+    ],
+    "nameEn": "EVANESCENCE 2026 JAPAN Tokyo 12/1",
+    "placeEn": "SGC HALL ARIAKE"
+  },
+  {
     "id": "485016",
     "name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Link Live Dream ～おいでよ！石川大観光Ⅱ～ Day.2",
     "href": "/events/485016",
@@ -2257,23 +2278,6 @@
     ],
     "nameEn": "LIVE STAGE \"Bocchi the Rock!\" 2026 RE:boot 2/1319:00 (Live)",
     "placeEn": "THEATER MILANO-Za (Shinjuku)"
-  },
-  {
-    "id": "454824",
-    "name": "天狼群 壮行会～春雷～",
-    "href": "/events/454824",
-    "url": "https://www.eventernote.com/events/454824",
-    "date": "2026-02-12",
-    "rawDate": "2026-02-12 (木)",
-    "dayOfWeek": "木",
-    "place": "アニメイト池袋本店 9F animate hall BLACK",
-    "artists": [
-      "天狼群",
-      "橘杏咲",
-      "花宮初奈"
-    ],
-    "nameEn": "Tenrougun Send-Off Party ~Spring Thunder~",
-    "placeEn": "Animate Ikebukuro Flagship 9F Hall BLACK"
   },
   {
     "id": "445734",
@@ -4065,6 +4069,21 @@
     ],
     "nameEn": "RAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」Aichi",
     "placeEn": "Zepp Nagoya"
+  },
+  {
+    "id": "397880",
+    "name": "大熊和奏のベアーズビーアンビシャスカレンダー2025 OFFICIAL SHOP限定特典リリースイベント〈チェキお渡し会〉２部",
+    "href": "/events/397880",
+    "url": "https://www.eventernote.com/events/397880",
+    "date": "2025-01-04",
+    "rawDate": "2025-01-04 (土)",
+    "dayOfWeek": "土",
+    "place": "!_東京都内某所",
+    "artists": [
+      "大熊和奏"
+    ],
+    "nameEn": "大熊和奏のベアーズビーアンビシャスカレンダー2025 OFFICIAL SHOP限定特典リリースイベント〈チェキお渡し会〉２部",
+    "placeEn": "!_東京都内某所"
   },
   {
     "id": "380208",
