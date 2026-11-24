@@ -8326,6 +8326,23 @@
         "placeEn": "KT Zepp Yokohama"
       },
       {
+        "id": "454824",
+        "name": "天狼群 壮行会～春雷～",
+        "href": "/events/454824",
+        "url": "https://www.eventernote.com/events/454824",
+        "date": "2026-02-12",
+        "rawDate": "2026-02-12 (木)",
+        "dayOfWeek": "木",
+        "place": "アニメイト池袋本店 9F animate hall BLACK",
+        "artists": [
+          "天狼群",
+          "橘杏咲",
+          "花宮初奈"
+        ],
+        "nameEn": "Tenrougun Send-Off Party ~Spring Thunder~",
+        "placeEn": "Animate Ikebukuro Flagship 9F Hall BLACK"
+      },
+      {
         "id": "453417",
         "name": "LIVE STAGE「ぼっち・ざ・ろっく！」2026 RE:boot 2月13日19:00(ライブ)",
         "href": "/events/453417",
@@ -13958,6 +13975,21 @@
         ],
         "nameEn": "TRUE 10th Anniversary Live Sound! Final ~Culmination~",
         "placeEn": "Zepp DiverCity (TOKYO)"
+      },
+      {
+        "id": "392844",
+        "name": "大西亜玖璃 7thシングル「アウフタクト」発売記念≪あぐぽん新年会!!!2025≫ ＜昼の部＞",
+        "href": "/events/392844",
+        "url": "https://www.eventernote.com/events/392844",
+        "date": "2025-01-13",
+        "rawDate": "2025-01-13 (月)",
+        "dayOfWeek": "月",
+        "place": "科学技術館サイエンスホール",
+        "artists": [
+          "大西亜玖璃"
+        ],
+        "nameEn": "Aguri Onishi 7th Single \"Auftakt\" Release ~Agupon New Year Party 2025~ (Day Session)",
+        "placeEn": "Science Museum Science Hall (Tokyo)"
       },
       {
         "id": "395959",
