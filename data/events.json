@@ -1327,7 +1327,6 @@
       "倉知玲鳳",
       "紡木吏佐",
       "HINAPIYOBAND",
-      "YOUSAY",
       "藤本ひかり",
       "矢尾拓也",
       "ILLIT",
@@ -1347,7 +1346,8 @@
       "METALVERSE",
       "HAPPY CREATORS",
       "来島エル",
-      "SILENT SIREN"
+      "SILENT SIREN",
+      "タイムマシーン3号"
     ],
     "nameEn": "LuckyFes’26 DAY2",
     "placeEn": "Hitachi Seaside Park (Ibaraki)"
@@ -1436,9 +1436,9 @@
       "絵森彩",
       "結那",
       "坂倉花",
-      "タイムマシーン3号",
       "関太(タイムマシーン3号)",
-      "山本浩司(タイムマシーン3号)"
+      "山本浩司(タイムマシーン3号)",
+      "蒼井翔太"
     ],
     "nameEn": "『LoveLive! Superstar!! Liella!Chu-Torie Live!! 2026』8/1(Evening)",
     "placeEn": "LaLa arena TOKYO-BAY"
@@ -1465,9 +1465,9 @@
       "絵森彩",
       "結那",
       "坂倉花",
-      "タイムマシーン3号",
-      "山本浩司(タイムマシーン3号)",
-      "関太(タイムマシーン3号)"
+      "関太(タイムマシーン3号)",
+      "蒼井翔太",
+      "山本浩司(タイムマシーン3号)"
     ],
     "nameEn": "『LoveLive! Superstar!! Liella!Chu-Torie Live!! 2026』8/1(Matinee)",
     "placeEn": "LaLa arena TOKYO-BAY"
@@ -1534,7 +1534,6 @@
     "dayOfWeek": "金",
     "place": "幕張メッセ 国際展示場ホール",
     "artists": [
-      "蒼井翔太",
       "angela",
       "atsuko(angela)",
       "KATSU(angela)",
@@ -1557,6 +1556,7 @@
       "KAZUKI(MADKID)",
       "LIN(MADKID)",
       "SHIN(MADKID)",
+      "May'n",
       "RAISE A SUILEN",
       "Raychell",
       "小原莉子",
@@ -1564,9 +1564,9 @@
       "倉知玲鳳",
       "紡木吏佐",
       "青木陽菜",
-      "May'n",
       "harmoe",
       "岩田陽葵",
+      "山崎淳",
       "小泉萌香",
       "いきづらい部！",
       "綾咲穂音",
@@ -1579,11 +1579,11 @@
       "天沢朱音",
       "小戸森穂花",
       "涼ノ瀬葵音",
-      "山崎淳",
       "IMAJO(サイキックラバー)",
       "村上聖",
       "今井隼",
-      "菊嶋亮一"
+      "菊嶋亮一",
+      "ARCANA PROJECT"
     ],
     "nameEn": "Animelo Summer Live 2026 -Messenger- DAY1",
     "placeEn": "Makuhari Messe International Exhibition Hall"
@@ -1598,7 +1598,6 @@
     "dayOfWeek": "金",
     "place": "幕張メッセ 国際展示場ホール",
     "artists": [
-      "ARCANA PROJECT",
       "桜野羽咲",
       "花宮ハナ(トリアエズ・ハナ)",
       "相田詩音",
@@ -1616,7 +1615,8 @@
       "咲川ひなの",
       "本村玲奈",
       "三波春香",
-      "百瀬帆南"
+      "百瀬帆南",
+      "Guilty Kiss"
     ],
     "nameEn": "Animelo Summer Live 2026 -Messenger- DAY1 Mini Stage animelo presents Special Summer Live！⁣【ARCANA PROJECT/DayRe:/Maebashi Witches】",
     "placeEn": "Makuhari Messe International Exhibition Hall"
@@ -1646,19 +1646,19 @@
     "dayOfWeek": "日",
     "place": "ぴあアリーナMM",
     "artists": [
-      "Guilty Kiss",
+      "Saint Snow",
       "逢田梨香子",
       "小林愛香",
       "鈴木愛奈",
-      "Saint Snow",
       "田野アサミ",
-      "佐藤日向",
       "GKSS",
+      "佐藤日向",
       "MEG",
       "山本淳也",
       "櫻井陸来",
       "奈良悠樹",
-      "西村奈央"
+      "西村奈央",
+      "トゲナシトゲアリ"
     ],
     "nameEn": "LoveLive! Sunshine!! Guilty Kiss × Saint Snow TWO-MAN LIVE Day.2",
     "placeEn": "Pia Arena MM (Yokohama)"
@@ -1673,14 +1673,14 @@
     "dayOfWeek": "土",
     "place": "ぴあアリーナMM",
     "artists": [
-      "Guilty Kiss",
+      "Saint Snow",
       "逢田梨香子",
       "小林愛香",
       "鈴木愛奈",
-      "Saint Snow",
       "田野アサミ",
+      "GKSS",
       "佐藤日向",
-      "GKSS"
+      "MEG"
     ],
     "nameEn": "LoveLive! Sunshine!! Guilty Kiss × Saint Snow TWO-MAN LIVE \"VS\" Day.1",
     "placeEn": "Pia Arena MM (Yokohama)"
@@ -1902,10 +1902,10 @@
     "dayOfWeek": "金",
     "place": "東京ガーデンシアター",
     "artists": [
-      "トゲナシトゲアリ",
       "理名",
       "夕莉",
-      "朱李"
+      "朱李",
+      "アイドルマスターシャイニーカラーズ"
     ],
     "nameEn": "Togenashi Togeari TOUR 2026 FINAL “Pulsing Future -ENCORE-”",
     "placeEn": "Tokyo Garden Theater"
@@ -1920,14 +1920,13 @@
     "dayOfWeek": "日",
     "place": "Kアリーナ横浜",
     "artists": [
-      "アイドルマスターシャイニーカラーズ",
       "illumination STARS",
       "関根瞳",
       "近藤玲奈",
       "峯田茉優",
       "L'Antica",
-      "礒部花凜",
       "菅沼千紗",
+      "礒部花凜",
       "八巻アンナ",
       "希水しお",
       "結名美月",
@@ -1948,15 +1947,16 @@
       "和久井優",
       "土屋李央",
       "田嶌紗蘭",
-      "岡咲美保",
       "SHHis",
+      "岸田教団&THE明星ロケッツ",
       "紫月杏朱彩",
       "山根綺",
       "CoMETIK",
       "川口莉奈",
       "三川華月",
       "小澤麗那",
-      "白石晴香"
+      "白石晴香",
+      "天狼群"
     ],
     "nameEn": "THE IDOLM@STER SHINY COLORS ∞th LIVE Ai to Yume DAY2",
     "placeEn": "K-Arena Yokohama"
@@ -1971,42 +1971,42 @@
     "dayOfWeek": "土",
     "place": "Kアリーナ横浜",
     "artists": [
-      "アイドルマスターシャイニーカラーズ",
       "illumination STARS",
       "関根瞳",
       "近藤玲奈",
       "峯田茉優",
       "L'Antica",
-      "礒部花凜",
       "菅沼千紗",
+      "礒部花凜",
       "八巻アンナ",
       "希水しお",
       "結名美月",
       "放課後クライマックスガールズ",
       "河野ひより",
       "永井真里子",
-      "涼本あきほ",
+      "丸岡和佳奈",
       "ALSTROEMERIA",
       "黒木ほの香",
       "前川涼子",
       "芝崎典子",
       "Straylight",
       "田中有紀",
-      "北原沙弥香",
+      "幸村恵理",
       "noctchill",
       "和久井優",
       "土屋李央",
       "田嶌紗蘭",
-      "岡咲美保",
       "SHHis",
+      "岸田教団&THE明星ロケッツ",
       "紫月杏朱彩",
       "山根綺",
       "CoMETIK",
       "川口莉奈",
       "三川華月",
       "小澤麗那",
-      "丸岡和佳奈",
-      "幸村恵理"
+      "白石晴香",
+      "涼本あきほ",
+      "北原沙弥香"
     ],
     "nameEn": "THE IDOLM@STER SHINY COLORS ∞th LIVE Ai to Yume DAY1",
     "placeEn": "K-Arena Yokohama"
@@ -2021,11 +2021,11 @@
     "dayOfWeek": "土",
     "place": "厚木市文化会館 大ホール",
     "artists": [
-      "天狼群",
       "橘杏咲",
-      "花宮初奈",
       "松岡美里",
-      "花井美春"
+      "花宮初奈",
+      "花井美春",
+      "Afterglow"
     ],
     "nameEn": "Tenrougun 1st LIVE -Fenrir- Night Session",
     "placeEn": "Atsugi City Culture Hall"
@@ -2040,11 +2040,11 @@
     "dayOfWeek": "土",
     "place": "厚木市文化会館 大ホール",
     "artists": [
-      "天狼群",
       "橘杏咲",
-      "花宮初奈",
       "松岡美里",
-      "花井美春"
+      "花宮初奈",
+      "花井美春",
+      "Afterglow"
     ],
     "nameEn": "Tenrougun 1st LIVE -Fenrir- Day Session",
     "placeEn": "Atsugi City Culture Hall"
@@ -2059,10 +2059,10 @@
     "dayOfWeek": "金",
     "place": "Zepp DiverCity (TOKYO)",
     "artists": [
-      "トゲナシトゲアリ",
       "理名",
       "夕莉",
-      "朱李"
+      "朱李",
+      "アイドルマスターシャイニーカラーズ"
     ],
     "nameEn": "Togenashi Togeari Zepp Tour 2026 “Pulsing Future” Zepp Diver City day1",
     "placeEn": "Zepp DiverCity (TOKYO)"
@@ -2109,24 +2109,24 @@
       "西本りみ",
       "大橋彩香",
       "伊藤彩沙",
-      "Afterglow",
       "佐倉綾音",
       "Pastel＊Palettes",
       "前島亜美",
       "Roselia",
       "相羽あいな",
       "工藤晴香",
-      "中島由貴",
       "櫻川めぐ",
+      "中島由貴",
       "志崎樺音",
       "ハロー、ハッピーワールド！",
       "伊藤美来",
       "Morfonica",
-      "進藤あまね",
       "直田姫奈",
+      "進藤あまね",
       "西尾夕香",
       "mika(Morfonica)",
       "Ayasa",
+      "三澤紗千香",
       "RAISE A SUILEN",
       "Raychell",
       "小原莉子",
@@ -2151,7 +2151,6 @@
       "峰月律",
       "藤都子",
       "千石ユノ",
-      "三澤紗千香",
       "加藤英美里",
       "金元寿子",
       "小澤亜李",
@@ -2162,7 +2161,8 @@
       "吉田有里",
       "豊田萌絵",
       "黒沢ともよ",
-      "日笠陽子"
+      "日笠陽子",
+      "初音ミク"
     ],
     "nameEn": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
     "placeEn": "K-Arena Yokohama"
@@ -2217,12 +2217,12 @@
     "dayOfWeek": "土",
     "place": "国立代々木競技場第一体育館",
     "artists": [
-      "初音ミク",
       "堀江晶太",
       "ゆーまお(ヒトリエ)",
       "山本陽介",
       "三沢崇篤",
-      "柴﨑洋輔"
+      "柴﨑洋輔",
+      "守乃まも"
     ],
     "nameEn": "DECO*27 × Hatsune Miku LIVE \"Hello\" Matinee",
     "placeEn": "Yoyogi National 1st Gymnasium"
@@ -2262,7 +2262,6 @@
     "dayOfWeek": "金",
     "place": "THEATER MILANO-Za(シアターミラノ座)",
     "artists": [
-      "守乃まも",
       "大竹美希",
       "小山内花凜",
       "大森未来衣",
@@ -2274,10 +2273,28 @@
       "森本さくら",
       "中橋沙里乃",
       "野田裕貴",
-      "斉藤瑞季"
+      "斉藤瑞季",
+      "=LOVE"
     ],
     "nameEn": "LIVE STAGE \"Bocchi the Rock!\" 2026 RE:boot 2/1319:00 (Live)",
     "placeEn": "THEATER MILANO-Za (Shinjuku)"
+  },
+  {
+    "id": "454824",
+    "name": "天狼群 壮行会～春雷～",
+    "href": "/events/454824",
+    "url": "https://www.eventernote.com/events/454824",
+    "date": "2026-02-12",
+    "rawDate": "2026-02-12 (木)",
+    "dayOfWeek": "木",
+    "place": "アニメイト池袋本店 9F animate hall BLACK",
+    "artists": [
+      "橘杏咲",
+      "松岡美里",
+      "花宮初奈"
+    ],
+    "nameEn": "Tenrougun Send-Off Party ~Spring Thunder~",
+    "placeEn": "Animate Ikebukuro Flagship 9F Hall BLACK"
   },
   {
     "id": "445734",
@@ -2289,10 +2306,10 @@
     "dayOfWeek": "水",
     "place": "KT Zepp Yokohama",
     "artists": [
-      "トゲナシトゲアリ",
+      "理名",
+      "アイドルマスターシャイニーカラーズ",
       "朱李",
-      "夕莉",
-      "理名"
+      "夕莉"
     ],
     "nameEn": "Togenashi Togeari Zepp Tour 2026 “Pulsing Future” KT Zepp Yokohama",
     "placeEn": "KT Zepp Yokohama"
@@ -2307,7 +2324,6 @@
     "dayOfWeek": "火",
     "place": "THEATER MILANO-Za(シアターミラノ座)",
     "artists": [
-      "守乃まも",
       "大竹美希",
       "小山内花凜",
       "大森未来衣",
@@ -2319,7 +2335,8 @@
       "森本さくら",
       "中橋沙里乃",
       "野田裕貴",
-      "斉藤瑞季"
+      "斉藤瑞季",
+      "=LOVE"
     ],
     "nameEn": "LIVE STAGE \"Bocchi the Rock!\" 2026 RE:boot 2/1012:30 (Stage)",
     "placeEn": "THEATER MILANO-Za (Shinjuku)"
@@ -2416,7 +2433,6 @@
     "dayOfWeek": "土",
     "place": "Kアリーナ横浜",
     "artists": [
-      "=LOVE",
       "大谷映美里",
       "大場花菜",
       "音嶋莉沙",
@@ -2450,9 +2466,10 @@
       "小澤愛実",
       "髙橋舞(≒JOY)",
       "藤沢莉子",
-      "村山結香",
       "山田杏佳",
-      "山野愛月"
+      "村山結香",
+      "山野愛月",
+      "Maajuu"
     ],
     "nameEn": "LAWSON 50th Anniversary presents ＝LOVE・≠ME・≒JOY Special LIVE",
     "placeEn": "K-Arena Yokohama"
@@ -2468,21 +2485,21 @@
     "place": "KT Zepp Yokohama",
     "artists": [
       "浅井七海",
-      "Maajuu",
-      "絵森彩",
       "小越春花",
+      "絵森彩",
+      "LINKL PLANET",
       "来栖りん",
       "斉藤朱夏",
       "鈴木愛奈",
       "宮野芹",
-      "LINKL PLANET",
       "天川れみ",
       "荒井芽依",
       "尾本侑樹奈",
       "佐藤咲菜",
       "鈴木華凜",
       "東恩納瑠花",
-      "宮﨑菜々"
+      "宮﨑菜々",
+      "スリーズブーケ"
     ],
     "nameEn": "Special Live Event Let’s have fun together",
     "placeEn": "KT Zepp Yokohama"
@@ -2587,7 +2604,7 @@
     "place": "Kアリーナ横浜",
     "artists": [
       "蓮ノ空女学院スクールアイドルクラブ",
-      "スリーズブーケ",
+      "DOLLCHESTRA",
       "楡井希実",
       "櫻井陽菜",
       "野中ここな",
@@ -2596,8 +2613,8 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね",
-      "DOLLCHESTRA",
       "みらくらぱーく！",
+      "Edel Note",
       "Edel Note"
     ],
     "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Cerise Bouquet presents Clover Stage＞ Day.2",
@@ -2614,7 +2631,7 @@
     "place": "Kアリーナ横浜",
     "artists": [
       "蓮ノ空女学院スクールアイドルクラブ",
-      "スリーズブーケ",
+      "DOLLCHESTRA",
       "楡井希実",
       "櫻井陽菜",
       "野中ここな",
@@ -2623,8 +2640,8 @@
       "来栖りん",
       "三宅美羽",
       "進藤あまね",
-      "DOLLCHESTRA",
       "みらくらぱーく！",
+      "Edel Note",
       "Edel Note"
     ],
     "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Cerise Bouquet presents Clover Stage＞ Day.1",
@@ -2650,9 +2667,9 @@
       "櫻井陽菜",
       "葉山風花",
       "来栖りん",
-      "スリーズブーケ",
       "DOLLCHESTRA",
-      "みらくらぱーく！"
+      "みらくらぱーく！",
+      "Edel Note"
     ],
     "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Edel Note presents Spade Stage＞ Day.2",
     "placeEn": "Osaka-jo Hall"
@@ -2677,9 +2694,9 @@
       "櫻井陽菜",
       "葉山風花",
       "来栖りん",
-      "スリーズブーケ",
       "DOLLCHESTRA",
-      "みらくらぱーく！"
+      "みらくらぱーく！",
+      "Edel Note"
     ],
     "nameEn": "LoveLive! Hasunosora Girls' High School Idol Club 5th Live Tour ～4Pair Power Spread!!!!～ ＜Edel Note presents Spade Stage＞ Day.1",
     "placeEn": "Osaka-jo Hall"
@@ -4069,21 +4086,6 @@
     ],
     "nameEn": "RAISE A SUILEN ZEPP TOUR 2024-2025「PANDEMONIUM」Aichi",
     "placeEn": "Zepp Nagoya"
-  },
-  {
-    "id": "397880",
-    "name": "大熊和奏のベアーズビーアンビシャスカレンダー2025 OFFICIAL SHOP限定特典リリースイベント〈チェキお渡し会〉２部",
-    "href": "/events/397880",
-    "url": "https://www.eventernote.com/events/397880",
-    "date": "2025-01-04",
-    "rawDate": "2025-01-04 (土)",
-    "dayOfWeek": "土",
-    "place": "!_東京都内某所",
-    "artists": [
-      "大熊和奏"
-    ],
-    "nameEn": "大熊和奏のベアーズビーアンビシャスカレンダー2025 OFFICIAL SHOP限定特典リリースイベント〈チェキお渡し会〉２部",
-    "placeEn": "!_東京都内某所"
   },
   {
     "id": "380208",
